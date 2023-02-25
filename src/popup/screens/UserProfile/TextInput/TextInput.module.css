@@ -1,0 +1,18 @@
+.field {
+  font-size: 1rem;
+  font-weight: bold;
+  min-height: 1rem;
+  flex: 1;
+}
+
+.container {
+  display: flex;
+}
+
+input {
+  border: none;
+  font-size: 1rem;
+  font-weight: bold;
+  min-height: 1.5rem;
+  flex: 1;
+}

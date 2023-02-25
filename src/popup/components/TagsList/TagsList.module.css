@@ -1,0 +1,9 @@
+.container {
+  padding: 0 8px;
+}
+.header {
+  text-align: center;
+  width: -moz-fit-content;
+  width: fit-content;
+  font-weight: 600;
+}

@@ -1,0 +1,14 @@
+.rows {
+  display: flex;
+  flex-direction: column;
+  height: 576px;
+  padding: 0 4%;
+  overflow-y: auto;
+  gap: 10px;
+}
+
+.header-right {
+  display: flex;
+  flex-direction: row;
+  height: 24px;
+}

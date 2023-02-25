@@ -1,0 +1,32 @@
+.container {
+  width: 100%;
+}
+.title {
+  font-size: 1rem;
+  text-align: center;
+  font-weight: bold;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+  padding: 4px 6px;
+}
+.row label {
+  width: 50px;
+}
+.row input,
+.row textarea {
+  flex: 1;
+}
+.button-row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 4px 6px;
+}
+
+.error {
+  padding-top: 0;
+}
